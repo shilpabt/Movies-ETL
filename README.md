@@ -41,9 +41,9 @@ A connection to the database was established in the Python environment using sql
 
 **movies** table query and the output is as below,
 
-   ![Movies Query](Resources/movies_query.png?raw=true)   
+![Movies Query](Resources/movies_query.png?raw=true)   
 
 **ratings** table query and the output is as below,
 
-   ![Ratings Query](Resources/ratings_query.png?raw=true)   
+![Ratings Query](Resources/ratings_query.png?raw=true)   
     
